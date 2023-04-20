@@ -2,6 +2,7 @@
 # Artificial Ecology for Chemical Ecology Project
 
 
+[![DOI](https://zenodo.org/badge/630104263.svg)](https://zenodo.org/badge/latestdoi/630104263)
 [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Femilydolson.github.io%2Fchemical-ecology%2Fversion-badge.json)](https://github.com/emilydolson/chemical-ecology/releases)
 [![](https://img.shields.io/travis/emilydolson/chemical-ecology.svg)](https://travis-ci.com/emilydolson/chemical-ecology)
 [![Documentation Status](https://readthedocs.org/projects/chemical-ecology/badge/?version=latest)](https://chemical-ecology.readthedocs.io/en/latest/?badge=latest)
